@@ -1,0 +1,23 @@
+Q1.Create a randomly generated number where the user has to guess the randomly generated number.
+Use branching and looping and flow control statement to manage the games flow
+
+note:1.1 Use random module to generate a random number between specified range.This will be the number user 
+need to guess.
+1.2 Use a while loop repeatedly prompt the user for their guess until they correctly guess the number.
+1.3 Use else_if statement to check if the user guess is correct,too high ,or too low.
+1.4 Introduce flow control statement like continue to skip certain part of the loop or break to exit the loop
+when the correct guess is made.
+
+Q2. Write a function to generate a fibonacci sequence up to specified number of terms.
+Q3. Write a function to check if the number given is prime or not.
+Q4. Write a function to count the number of words in the given string.
+Q5. Create a python scripts thatreads the text file,Count the occurence of the each word and print the results.
+Q6. Write a function that takes the two lists and return a new list containning common elements.
+Q7. Write a function to count the number of vowels in the string.
+Q8. Implement the binary search algorithm to find the index of the target element in a sorted list.
+Q9. IMplemet a linear search to find out the index of the target elent in the list.
+Q10. Given a list of integers from 1 to N with one number missing .Find out the missing number.
+Q11. Find out the second last element in a string.
+Q12. Find out the second last element in a list.
+Q13. Rotate and array by given number of steps.
+Q14. Find out the Second smallest element from the list.

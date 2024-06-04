@@ -1,0 +1,16 @@
+3how can we perform data cleansing operation such AS handling missing values
+cleansed_df=df.cleansed()
+printf(cleansed_df)
+
+filled_df=df.filled(10)
+print(filled_df)
+
+#grouping and aggregating  data
+grouped_species=df_groupby('species').mean()
+print(grouped_species)
+
+#lets see basic operation of data visualization using matplotlib now
+ import matplotlob.pyplot as plt
+df.box.plot(by='species',column=['sepal_length','sepal_width'])
+
+pip.title('boxplot of sepal length and width by species')
